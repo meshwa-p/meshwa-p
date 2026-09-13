@@ -4,6 +4,10 @@
 
 I'm a Computer Science student exploring **tech, AI/ML, data, and product** — while trying to turn ideas into things that actually work.
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## 🧑‍💻 About Me
 
 - 🎓 B.Tech CSE student
@@ -12,6 +16,9 @@ I'm a Computer Science student exploring **tech, AI/ML, data, and product** — 
 - 🏏 Cricket Captain & team leader
 - 🚀 Always looking for things to **build, learn & experiment with**
 
+</td>
+<td width="50%" valign="top">
+
  ## 🌱 Currently Learning
 
 - 🤖 **AI / Machine Learning**
@@ -19,6 +26,9 @@ I'm a Computer Science student exploring **tech, AI/ML, data, and product** — 
 - 🌐 **MERN Development**
 - 🚀 **Product Management & Business**
 - 📱 **Android App Development**
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 ### Languages
