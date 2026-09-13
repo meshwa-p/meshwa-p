@@ -6,7 +6,7 @@ I'm a Computer Science student exploring **tech, AI/ML, data, and product** — 
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:none;">
 
 ## 🧑‍💻 About Me
 
@@ -17,7 +17,7 @@ I'm a Computer Science student exploring **tech, AI/ML, data, and product** — 
 - 🚀 Always looking for things to **build, learn & experiment with**
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:none;>
 
  ## 🌱 Currently Learning
 
